@@ -1,0 +1,17 @@
+{
+    "tweet":{
+	    "usuario":{
+            "nombre":"@lorem_45",
+            "alias":"loremrazer",
+            "followers":["@dòicsd33","@borisjh_2","@sachaa.mir"]
+        },
+	    "contenido":"Sit exercitation minim adipisicing laborum Lorem nisi excepteur veniam reprehenderit dolor proident irure qui et.",
+	    "retweets":"18",
+	    "mg":"23",
+	    "comentarios":[
+            "Est esse deserunt pariatur ullamco ullamco tempor quis.",
+            "Nulla nisi aute dolore officia enim mollit.",
+            "Exercitation commodo pariatur cupidatat consequat fugiat officia ut."
+        ]
+    }
+}
