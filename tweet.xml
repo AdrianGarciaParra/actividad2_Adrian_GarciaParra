@@ -1,0 +1,17 @@
+<tweet>
+	<usuario nombre="@lorem_45" alias="loremrazer">
+		<followers>
+			<nombre>@dòicsd33</nombre>
+			<nombre>@borisjh_2</nombre>
+			<nombre>@sachaa.mir</nombre>
+		</followers>
+	</usuario>
+	<contenido>Sit exercitation minim adipisicing laborum Lorem nisi excepteur veniam reprehenderit dolor proident irure qui et.</contenido>
+	<retweets>18</retweets>
+	<mg>23</mg>
+	<comentarios>
+		<comentario>Est esse deserunt pariatur ullamco ullamco tempor quis.</comentario>
+		<comentario>Nulla nisi aute dolore officia enim mollit.</comentario>
+		<comentario>Exercitation commodo pariatur cupidatat consequat fugiat officia ut.</comentario>
+	</comentarios>
+</tweet>
